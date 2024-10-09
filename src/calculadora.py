@@ -55,5 +55,3 @@ def calculadora():
         else:
             print("Opción invalida. Intente de nuevo.")
 
-if __name__ == "__main__":
-    calculadora()
